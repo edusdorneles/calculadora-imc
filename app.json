@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "calculadora-imc",
+    "name": "Calculadora IMC",
     "slug": "calculadora-imc",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,7 +8,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#65427C"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,13 +20,13 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.dududornelees.calculadoraimc",
+      "versionCode": 1,
+
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#65427C"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
     }
   }
 }
