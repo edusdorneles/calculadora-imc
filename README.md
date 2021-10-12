@@ -1,4 +1,4 @@
-<h1 align="center">Portfólio Online</h1>
+<h1 align="center">Calculadora IMC</h1>
 
 <p align="center">Meu primeiro projeto criado com React Native.<p>
 
